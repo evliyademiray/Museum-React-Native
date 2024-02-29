@@ -1,3 +1,17 @@
+This is Museum Find project, aimed to find museum in every city on Turkey, created by React Native,
+
+Used Axios for requests,
+
+Used https://www.nosyapi.com/api/turkiye-muze-api as API database,
+
+Used Redux-Toolkit for state management,
+
+
+In the search input side, you search and city and find all museums on this city, if doesn’t exist you’ll see “couldnt find anything ” alert
+
+https://github.com/evliyademiray/Museum-React-Native/assets/139562305/8f1c7ffe-3bf5-44a3-ab15-13f9b35a47cd
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
